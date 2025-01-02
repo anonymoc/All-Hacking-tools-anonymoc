@@ -16,7 +16,7 @@ quyidagi operatsion tizimlardan birida ishlaydi:
 
 Qanday o'rnatish kerak
 Terminalni oching va yozing<pkg install git>
-Keyin<git clone https://github.com/4lbH4cker/ALHacking>
+Keyin<git clone https://github.com/anonymoc/All-Hacking-tools-anonymoc.git
 <cd ALHacking>
 <bash alhack.sh>
 Ogohlantirish
